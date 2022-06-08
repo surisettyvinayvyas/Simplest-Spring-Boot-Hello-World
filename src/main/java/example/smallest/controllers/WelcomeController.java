@@ -1,4 +1,4 @@
-package example.smallest.controllers;
+54.177.96.16package example.smallest.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -16,6 +16,6 @@ public class WelcomeController {
 		
 		
 		
-		return "Hello fucking World!!!"; //"application/json" mean this is a text not a redirect
+		return "Hello master World!!!"; //"application/json" mean this is a text not a redirect
 	}
 }
